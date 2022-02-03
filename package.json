@@ -1,13 +1,13 @@
 {
   "name": "fact-electronica-imp",
-  "version": "0.0.3",
-  "description": "para facturacion de electronica SIN bolivia",
+  "version": "0.0.4",
+  "description": "para facturacion de electronica y computarizada SIN bolivia",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["facturacion","electronica","computarizada"],
+  "author": "Percyqc",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.25.0"

@@ -1,8 +1,7 @@
-# facturacion computarizada electronica Bolivia test
+# facturacion electronica Bolivia test
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
-#### Lista de tipos de facturacion (-)
+#### Lista de tipos de facturacion
 
 - Electronica
 - computarizada
