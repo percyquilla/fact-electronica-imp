@@ -1,0 +1,15 @@
+{
+  "name": "fact-electronica-imp",
+  "version": "0.0.2",
+  "description": "para facturacion de electronica SIN bolivia",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
