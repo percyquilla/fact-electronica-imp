@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.25.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/percyquilla/fact-electronica-imp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/percyquilla/fact-electronica-imp/issues"
+  },
+  "homepage": "https://github.com/percyquilla/fact-electronica-imp#readme"
 }
