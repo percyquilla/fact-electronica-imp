@@ -1,6 +1,6 @@
 {
   "name": "fact-electronica-imp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "para facturacion de electronica SIN bolivia",
   "main": "src/index.js",
   "scripts": {
