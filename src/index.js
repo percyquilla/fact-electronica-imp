@@ -1,4 +1,4 @@
-const axios=require('axios');
+const axios = require('axios');
 
 function soap() {
     let sr =
@@ -11,7 +11,6 @@ function soap() {
         '</ns1:AccountRequestRequest>' +
         '</SOAP-ENV:Body>' +
         '</SOAP-ENV:Envelope>';
-
     axios
         .post('https://testing.cs.quantmarketing.com/Ikbe-onlinesoapapi/Service.asmx', sr, {
             headers: {
@@ -20,14 +19,14 @@ function soap() {
                     'http://schemas.facilinformatica.com.br/Facil.Credito.WsCred/IEmprestimo/CalcularPrevisaoDeParcelas'
             }
         })
-        .then(response => console.log(response.data))
-        .catch(err => console.log(err));
+        .then((response) => console.log(response.data))
+        .catch((err) => console.log(err));
 }
 
 const holaMundo = () => {
     console.log('Hola mundo desde un archivo externo');
 };
- module.exports = {
-        holaMundo,
-        soap
- }
+module.exports = {
+    holaMundo,
+    soap
+};
